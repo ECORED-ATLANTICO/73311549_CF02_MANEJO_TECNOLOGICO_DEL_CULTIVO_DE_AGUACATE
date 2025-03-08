@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Manejo del cultivo de aguacate, cosecha y poscosecha',
-    descripcionCurso:
+    Name: 'Manejo del cultivo de aguacate, cosecha y poscosecha',
+    Description:
       'El manejo del cultivo de aguacate incluye prácticas agronómicas como la elección de variedades, fertilización, riego y control de plagas, garantizando un crecimiento óptimo. La cosecha se realiza cuidadosamente para evitar daños, mientras que en la poscosecha se implementan procesos de clasificación, empaque y almacenamiento que preservan la calidad y frescura del fruto, asegurando su éxito en el mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),

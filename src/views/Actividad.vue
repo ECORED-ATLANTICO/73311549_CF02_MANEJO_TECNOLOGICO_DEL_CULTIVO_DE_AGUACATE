@@ -9,8 +9,12 @@
   </template>
 
 <script>
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
   name: 'ActividadDidactica',
+  components: {
+    Actividad,
+  },
   data: () => ({
     cuestionario: {
       tema: 'Manejo del cultivo de aguacate, cosecha y poscosecha.',
@@ -93,7 +97,7 @@ export default {
         {
           id: 5,
           texto: '¿Qué método se utiliza para almacenar aguacates frescos?',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Refrigeración', esCorrecta: true },
@@ -215,7 +219,7 @@ export default {
         {
           id: 13,
           texto: '¿Qué tipo de fertilización es recomendable para el aguacate?',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
