@@ -20,7 +20,7 @@ export default {
       tema: 'Manejo del cultivo de aguacate, cosecha y poscosecha.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Desarrollar habilidades en el manejo integral del cultivo de aguacate, abarcando técnicas de siembra, cuidados agronómicos, métodos de cosecha y prácticas de poscosecha. Se busca fomentar el conocimiento sobre la optimización de recursos, la prevención de plagas y enfermedades, y asegurar la calidad del producto, contribuyendo así a una producción sostenible y rentable.',
+        '<b> Objetivo:</b> desarrollar habilidades en el manejo integral del cultivo de aguacate, abarcando técnicas de siembra, cuidados agronómicos, métodos de cosecha y prácticas de poscosecha. Se busca fomentar el conocimiento sobre la optimización de recursos, la prevención de plagas y enfermedades, y asegurar la calidad del producto, contribuyendo así a una producción sostenible y rentable.',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -28,7 +28,7 @@ export default {
           texto:
             '¿Cuánto tiempo tarda un aguacate en producir frutos después de la siembra?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: '1-2 años', esCorrecta: false },
             { id: 'b', texto: '3-4 años', esCorrecta: true },
@@ -43,7 +43,7 @@ export default {
           texto:
             '¿Cuál es una de las principales plagas que afecta al aguacate?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Mosca de la fruta', esCorrecta: false },
             { id: 'b', texto: 'Pulgón', esCorrecta: false },
@@ -58,7 +58,7 @@ export default {
           texto:
             '¿Qué técnica se utiliza para asegurar la polinización del aguacate?',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Polinización manual', esCorrecta: false },
             { id: 'b', texto: 'Uso de insectos', esCorrecta: false },
@@ -72,7 +72,7 @@ export default {
           id: 4,
           texto: '¿Cuándo es el mejor momento para cosechar aguacates?',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -98,7 +98,7 @@ export default {
           id: 5,
           texto: '¿Qué método se utiliza para almacenar aguacates frescos?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Refrigeración', esCorrecta: true },
             { id: 'b', texto: 'Deshidratación', esCorrecta: false },
@@ -113,7 +113,7 @@ export default {
           texto:
             '¿Cuál es la principal característica de la madurez del aguacate?',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Color uniforme', esCorrecta: false },
             { id: 'b', texto: 'Textura suave', esCorrecta: true },
@@ -128,7 +128,7 @@ export default {
           texto:
             '¿Qué sustancia se libera al madurar el aguacate que afecta a otros frutos?',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Etileno', esCorrecta: true },
             { id: 'b', texto: 'Oxígeno', esCorrecta: false },
@@ -142,7 +142,7 @@ export default {
           id: 8,
           texto: '¿Qué tipo de aguacate es el más común en el mercado?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Aguacate Bacon', esCorrecta: false },
             { id: 'b', texto: 'Aguacate Fuerte', esCorrecta: false },
@@ -156,7 +156,7 @@ export default {
           id: 9,
           texto: '¿Qué práctica se recomienda para el riego del aguacate?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Riego diario', esCorrecta: false },
             { id: 'b', texto: 'Riego excesivo', esCorrecta: false },
@@ -170,7 +170,7 @@ export default {
           id: 10,
           texto: '¿Cuál es un indicador de que un aguacate está maduro?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Color verde intenso', esCorrecta: false },
             { id: 'b', texto: 'Textura dura', esCorrecta: false },
@@ -184,7 +184,7 @@ export default {
           id: 11,
           texto: '¿Qué se debe hacer para prolongar la vida útil del aguacate?',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -206,7 +206,7 @@ export default {
           id: 12,
           texto: '¿Qué sucede si se cosechan aguacates demasiado pronto?',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Mejora su sabor', esCorrecta: false },
             { id: 'b', texto: 'No maduran adecuadamente', esCorrecta: true },
@@ -220,7 +220,7 @@ export default {
           id: 13,
           texto: '¿Qué tipo de fertilización es recomendable para el aguacate?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -242,7 +242,7 @@ export default {
           id: 14,
           texto: '¿Cuál es el principal productor de aguacate en el mundo?',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Estados Unidos', esCorrecta: false },
             { id: 'b', texto: 'México', esCorrecta: true },
@@ -256,7 +256,7 @@ export default {
           id: 15,
           texto: '¿Qué nutrientes son esenciales para el cultivo de aguacate?',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Solo nitrógeno', esCorrecta: false },
             {
@@ -275,7 +275,7 @@ export default {
           texto:
             '¿Cuál es la temperatura óptima para el crecimiento del aguacate?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: '10-15 °C', esCorrecta: false },
             { id: 'b', texto: '15-25 °C', esCorrecta: false },
@@ -308,7 +308,7 @@ export default {
           texto:
             '¿Qué problema puede causar el exceso de agua en el cultivo de aguacate?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Mejora el crecimiento', esCorrecta: false },
             { id: 'b', texto: 'Enraizamiento más profundo', esCorrecta: false },
@@ -322,7 +322,7 @@ export default {
           id: 19,
           texto: '¿Qué color adquiere un aguacate Hass cuando está maduro?',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Verde brillante', esCorrecta: false },
             { id: 'b', texto: 'Amarillo', esCorrecta: false },
@@ -336,7 +336,7 @@ export default {
           id: 20,
           texto: '¿Cuál es el principal beneficio del aguacate para la salud?',
           imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Alto en azúcares', esCorrecta: false },
             { id: 'b', texto: 'Rico en grasas saludables', esCorrecta: true },

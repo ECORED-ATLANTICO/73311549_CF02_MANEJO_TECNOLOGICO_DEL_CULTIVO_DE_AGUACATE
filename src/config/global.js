@@ -43,7 +43,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Cosecha y poscosecha del aguacate.',
+        titulo: 'Cosecha y poscosecha del aguacate',
         desarrolloContenidos: true,
       },
     ],
@@ -78,7 +78,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF02_270401006_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -106,7 +106,7 @@ export default {
       descarga: '/downloads/162-Manuscrito de capítulo-1129-1-10-20201215.pdf',
     },
     {
-      tema: 'Introducción Cosecha y poscosecha',
+      tema: 'Introducción cosecha y poscosecha',
       referencia: 'Ecosistema SENA',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3fHDdKRxuvM',
@@ -122,7 +122,7 @@ export default {
     {
       termino: 'Ahoyado',
       significado:
-        'Esta labor consiste en hacer huecos u hoyos previamente demarcados, se deben realizar con uno (1) o dos (2) meses antes de la siembra',
+        'Esta labor consiste en hacer huecos u hoyos previamente demarcados, se deben realizar con uno (1) o dos (2) meses antes de la siembra.',
     },
     {
       termino: 'Cosecha',
@@ -132,12 +132,12 @@ export default {
     {
       termino: 'Elementos menores',
       significado:
-        'Entre estos se encuentran el Hierro (Fe), Cobre (Cu), Manganeso (Mn), Molibdeno (Mo), Boro (B), Zinc (Zn) y Cloro (Cl). Son indispensables en el crecimiento y desarrollo de la planta.',
+        'Entre estos se encuentran el hierro (Fe), cobre (Cu), manganeso (Mn), molibdeno (Mo), boro (B), zinc (Zn) y cloro (Cl). Son indispensables en el crecimiento y desarrollo de la planta.',
     },
     {
       termino: 'Fertilidad',
       significado:
-        'Es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuados.',
+        'Es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuadas.',
     },
     {
       termino: 'Poscosecha',
@@ -224,9 +224,9 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -235,19 +235,19 @@ export default {
       autores: [
         {
           nombre: 'Julio Hernán Beltrán Peñuela',
-          cargo: 'Experta temático',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'Paola Andrea Bobadilla Gutiérrez',
-          cargo: 'Guionista Línea de Producción',
+          cargo: 'Guionista línea de producción',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -256,27 +256,27 @@ export default {
       autores: [
         {
           nombre: 'Hernando Junior Strusberg Perez',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Liborio De Jesús Castañeda Valencia',
           cargo: 'Desarrollador <em>full stack junior</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y producción audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         // {
         //   nombre: 'Nombre',
         //   cargo: 'Actividad Didáctica',
         //   centro:
-        //     'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+        //     'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         // },
       ],
     },
@@ -287,25 +287,25 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },

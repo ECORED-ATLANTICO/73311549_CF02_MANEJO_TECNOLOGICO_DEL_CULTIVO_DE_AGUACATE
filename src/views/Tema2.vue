@@ -9,7 +9,7 @@
       
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12.col-lg-8
-        p.mb-2 La poscosecha es uno de los procesos tecnológicos en los cuales se debe tener gran cuidado, pues las pérdidas en esta etapa pueden superar el 30%, haciendo que se baje considerablemente la rentabilidad del sistema de producción de aguacate.
+        p.mb-2 La poscosecha es uno de los procesos tecnológicos en los cuales se debe tener gran cuidado, pues las pérdidas en esta etapa pueden superar el 30 %, haciendo que se baje considerablemente la rentabilidad del sistema de producción de aguacate.
         p Desde el inicio del ciclo productivo se recomienda tener en cuenta todas las variables y lineamientos tecnológicos para lograr la máxima eficiencia y productividad de la cosecha y poscosecha de la fruta, pues con esto se está cerrando el ciclo de la estandarización y trazabilidad del producto, ofreciendo una fruta bajo los parámetros del mercado.
       
       .col-md-6.col-lg-4
@@ -40,32 +40,32 @@
                 img(src="@/assets/curso/temas/tema2/img_2.png", alt="alt").img400.m-auto
             .col-lg-8.mb-3
               AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
-                .row(titulo="Cambio de color:")
+                .row(titulo="Cambio de color")
                   .col-12
                     p.mb-0 En la corteza; muchos frutos se ponen opacos y/o negros.
 
-                .row(titulo="Color del pedúnculo:")
+                .row(titulo="Color del pedúnculo")
                   .col-12
                     p.mb-0 En la mayoría de las variedades se torna de color oscuro.
 
 
-                .row(titulo="Tiempo:")
+                .row(titulo="Tiempo")
                   .col-12
-                    p.mb-0 Que transcurre desde la floración hasta el cuajado de los frutos de acuerdo con la variedad o clima 
+                    p.mb-0 Que transcurre desde la floración hasta el cuajado de los frutos de acuerdo con la variedad o clima.
 
-                .row(titulo="Aparición:")
+                .row(titulo="Aparición")
                   .col-12
                     p.mb-0 De nuevas flores en el árbol.
 
-                .row(titulo="Cantidad:")
+                .row(titulo="Cantidad")
                   .col-12
                     p.mb-0 De sólidos solubles en el fruto, este factor es característico para cada variedad.
 
-                .row(titulo="Cambio de color:")
+                .row(titulo="Cambio de color")
                   .col-12
                     p.mb-0 En la cutícula que recubre la semilla, esta se desprende y se quiebra. 
 
-                .row(titulo="Semillas:")
+                .row(titulo="Semillas")
                   .col-12
                     p.mb-0 Algunas veces la semilla echa raíces.
       
@@ -77,7 +77,8 @@
       .col-lg-10.mb-2
         .titulo-sexto.bg-11.mb-4
             h5 Tabla 4. 
-            span.text-dark Principales características del fruto en madurez fisiológica de las tres razas
+            span.text-dark 
+              i Principales características del fruto en madurez fisiológica de las tres razas
         
         .tabla-b.mb-3
           table
@@ -96,9 +97,9 @@
                 td 310 g
               tr
                 td Contenido de aceite
-                td Alto (27%)
-                td Medio (20%)
-                td Bajo (10%)
+                td Alto (27 %)
+                td Medio (20 %)
+                td Bajo (10 %)
               tr
                 td Grosor de la cáscara
                 td Media
@@ -127,7 +128,7 @@
 
       .col-lg-10.order-2.order-lg-1.align-items-center
         TabsA.color-primario.mb-5
-          .tarjeta.clr-paleYellow.p-4(titulo="Los mejores cortes:")
+          .tarjeta.clr-paleYellow.p-4(titulo="Los mejores cortes")
             .row.justify-content-center.align-items-center.ordenar_tarjeta_lg
               .col-lg-12.col-xl-5  
                 p Se logran utilizando cuchillos bien afilados, sin embargo, se deben evitar golpes y rajaduras con la cuchilla en el fruto, lo que afecta la presentación en el mercado y la vida de almacenamiento. Las heridas permiten la penetración de hongos y en consecuencia la pudrición de los frutos en el proceso de maduración durante la poscosecha
@@ -138,12 +139,12 @@
           .tarjeta.clr-paleYellow.p-4(titulo="Cuando los frutos están partes altas del árbol")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-xl-5  
-                p Se recomienda utilizar varillas (con cuchillos o navajas filosas) u otra herramienta afilada larga para cosechar la fruta. En otras ocasiones cuando el árbol es demasiado alto se utiliza escalera, este método de recolección es bastante riesgoso y se debe tener mucho cuidado de no dañar el árbol.
+                p Se recomienda utilizar varillas (con cuchillos o navajas filosas) u otra herramienta afilada larga para cosechar la fruta. En otras ocasiones, cuando el árbol es demasiado alto, se utiliza escalera, este método de recolección es bastante riesgoso y se debe tener mucho cuidado de no dañar el árbol.
               .col-md-6.col-lg-5.col-xl-7
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_4.png", alt="alt").img400.mx-auto
 
-          .tarjeta.clr-paleYellow.p-4(titulo="No se recomienda:")
+          .tarjeta.clr-paleYellow.p-4(titulo="No se recomienda")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-xl-5  
                 p Cosechar la fruta de las partes altas golpeándola con herramientas largas o palos, ni subirse al árbol a cortarla y dejarla caer al suelo; pues esto puede traer problemas de deterioro de la fruta y grandes pérdidas en la cosecha. Una vez la fruta ha sido desprendida del árbol se coloca en bolsas de tela o estopa de fibra que son cargadas al hombro por los cosechadores.
@@ -151,7 +152,7 @@
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_5.png", alt="alt").img400.mx-auto
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Después los frutos se organizan en canastillas:")
+          .tarjeta.clr-paleYellow.p-4(titulo="Después los frutos se organizan en<br> canastillas")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-xl-4  
                 p Plásticas (bien limpias) tipo carullera que cuenta con las siguientes medidas: 52 cm largo, 35 cm anchor y 30 cm alto o si es la canastilla tradicional: 59 cm largo, 40 cm ancho y 24 cm alto.
@@ -159,7 +160,7 @@
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_6.png", alt="alt").img400.mx-auto
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Cantidad en la canastilla:")
+          .tarjeta.clr-paleYellow.p-4(titulo="Cantidad en la canastilla")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-xl-5  
                 p.mb-3 Se deben colocar como máximo 3 o 4 capas de fruta dentro de las canastillas, con un peso de 20 kg, para evitar daños mecánicos y físicos en el transporte.
@@ -172,7 +173,7 @@
       .col-lg-10.mb-3
         .row.justify-content-center.align-items-center
           .col-md-12.col-lg-8
-            p.mb-2 La fruta no puede ser colocada en el suelo al iniciar la actividad de llenado de las canastillas, pues que esto puede traer problemas de contaminación del fruto por agentes patógenos. Después de tener la fruta acopiada se debe transportar hacia el sitio de almacenamiento para iniciar las labores de poscosecha (selección, clasificación y empaque). No es recomendable transportar fruta a granel, pues las pérdidas aumentarían considerablemente. 
+            p.mb-2 La fruta no puede ser colocada en el suelo al iniciar la actividad de llenado de las canastillas, pues esto puede traer problemas de contaminación del fruto por agentes patógenos. Después de tener la fruta acopiada se debe transportar hacia el sitio de almacenamiento para iniciar las labores de poscosecha (selección, clasificación y empaque). No es recomendable transportar fruta a granel, pues las pérdidas aumentarían considerablemente. 
             p Es recomendable realizar una preselección en campo antes de llegar al proceso de poscosecha, pues con esto, se evita llevar fruta no apta para el mercado y por ende bajar los costos de producción. La fruta descartada es aquella que presenta daños mecánicos, daños por insectos, presencia de enfermedades en la cáscara, deformación, problemas de roña y tamaño muy pequeño. 
 
           .col-md-5.col-lg-4
@@ -203,7 +204,7 @@
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
         p.mb-2 El lavado del aguacate en Colombia se realiza pocas veces y únicamente si es exigido por mercados internacionales, esto con el fin de brindar una mejor presentación al producto y eliminar posibles residuos de fungicidas, insecticidas o fertilizantes foliares.
-        p Esta práctica se hace sumergiendo los frutos en una solución desinfectante y después es indispensable realizar un proceso de secado donde se garantice la eliminación de humedad de la cascara y así evitar posibles focos de patógenos.
+        p Esta práctica se hace sumergiendo los frutos en una solución desinfectante y después es indispensable realizar un proceso de secado donde se garantice la eliminación de humedad de la cáscara y así evitar posibles focos de patógenos.
 
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -231,19 +232,19 @@
               .tarjeta.tarjeta--slyder.p-4
                 .row.justify-content-center.mb-3
                   .col-8.bg-04
-                    h4.p-3.text-white.text-center Categoría extra:
+                    h4.p-3.text-white.text-center Categoría extra
                 p.text-center.mb-0 Los aguacates de esta categoría deben ser de calidad superior con un peso mayor a 180 gramos, libres de defectos con excepción de daños leves en el pericarpio, siempre que no afecten el aspecto general del producto.
 
               .tarjeta.tarjeta--slyder.p-4
                 .row.justify-content-center.mb-3
                   .col-8.bg-04
-                    h4.p-3.text-white.text-center Categoría I (primera):
+                    h4.p-3.text-white.text-center Categoría I (primera)
                 p.text-center.mb-0 Los aguacates deben tener un peso entre 150 y 179 gramos y ser de buena calidad, además tener la forma y el olor típico de la variedad. Podrán presentar ligeros defectos de forma y color, las quemaduras en el pericarpio que no sobrepasen los 4 cm². Ningún defecto puede afectar la pulpa del fruto.
 
               .tarjeta.tarjeta--slyder.p-4
                 .row.justify-content-center.mb-3
                   .col-8.bg-04
-                    h4.p-3.text-white.text-center Categoría II (industrial):
+                    h4.p-3.text-white.text-center Categoría II (industrial)
                 p.text-center.mb-0 En esta categoría se incluyen pesos entre 90 y 149 gramos, puede presentar defectos en la forma y el color, manchas de epidermis y quemaduras por el sol que no superen los 6 cm², igual que en los dos anteriores los efectos no pueden afectar la pulpa del fruto.
 
       .col-lg-12.mb-2
@@ -252,7 +253,8 @@
       .col-lg-7.mb-2
         .titulo-sexto.bg-11.mb-4
             h5 Tabla 5. 
-            span.text-dark Calibres para clasificación de la fruta para mercado internacional
+            span.text-dark 
+              i Calibres para clasificación de la fruta para mercado internacional
         
         .tabla-b.mb-5 
           table.text-center
@@ -327,7 +329,7 @@
           p.mb-2 Los frutos de aguacate se deben almacenar en un lugar fresco, seco, bien aireado, lejos de posibles contaminantes tales como: agroquímicos, detergentes, sustancias toxicas, pinturas u otros productos que emitan olores fuertes. Si se va a almacenar por más de ocho días (8), se debe tener condiciones de enfriamiento para conservar la calidad de la fruta y extender su vida comercial.
         
         .col-md-12.col-lg-12.mb-2
-          p El enfriamiento del producto debe realizarse a temperaturas que oscilen entre 5 y 13 °C y de 90 a 95% de humedad relativa. La fruta con madurez de consumo que ya ha perdido firmeza se puede almacenar entre 2 y 4 °C, con altos niveles de humedad relativa (90% - 95%). El producto empacado se lleva a los cuartos refrigerados y se deja enfriar hasta su temperatura óptima de almacenamiento, la ubicación del producto es importante para facilitar la circulación del aire.
+          p El enfriamiento del producto debe realizarse a temperaturas que oscilen entre 5 y 13 °C y de 90 a 95 % de humedad relativa. La fruta con madurez de consumo que ya ha perdido firmeza se puede almacenar entre 2 y 4 °C, con altos niveles de humedad relativa (90 % - 95 %). El producto empacado se lleva a los cuartos refrigerados y se deja enfriar hasta su temperatura óptima de almacenamiento, la ubicación del producto es importante para facilitar la circulación del aire.
 
       .col-md-6.col-lg-6.mb-2
         figure(data-aos="zoom-in")
@@ -340,7 +342,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img_14.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Para profundizar sobre la norma técnica que orientan la calidad del producto para el mercado, se recomienda consultar el documento denominado: Norma del CODEX para el aguacate que se encuentra en el botón Materiales del programa / Materiales de apoyo / Documentos complementarios / Documentos complementarios: Actividad de aprendizaje 4.
+            p.mb-0 Para profundizar sobre la norma técnica que orienta la calidad del producto para el mercado, se recomienda consultar el documento denominado: Norma del CODEX para el aguacate que se encuentra en el botón Materiales del programa / Materiales de apoyo / Documentos complementarios / Documentos complementarios: Actividad de aprendizaje 4.
 
 </template>
 
