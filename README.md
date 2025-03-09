@@ -1,9 +1,9 @@
 # **73311549 CF02 Manejo del cultivo de aguacate, cosecha y poscosecha**
 
 ## **Enlace GitHubPages**
-
+[
 [https://ecoredsena-atlantico.github.io/73311549_CF02_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/](https://ecoredsena-atlantico.github.io/73311549_CF02_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/)
-
+](https://ecored-atlantico.github.io/73311549_CF02_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/#/)
 #
 
 ## **Configuración del proyecto**
