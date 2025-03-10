@@ -282,7 +282,7 @@
 
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/img_14.png', alt='Proceso de siembra para aguacate.').mx-auto
-          figcaption Nota: Sena (2012)
+          figcaption Nota: Sena
 
       .col-lg-10.mb-2
         p El árbol debe quedar con un montículo de 10 cm por encima del nivel del suelo para evitar encharcamientos y posibles pudriciones (se pueden realizar posteriores resiembras en caso de la muerte de algunas plántulas).
@@ -332,9 +332,8 @@
             figure
               img(src="@/assets/curso/temas/tema1/img_24.png", alt="alt").img400.m-auto
           .col-lg-8
-            p El manejo de tutores en aguacate es indispensable para lograr un árbol recto y bien distribuido, que permita darle un fácil manejo a la hora de realizar las podas de formación. Esta labor se hace clavando una estaca delgada a 10 cm por fuera de la zona de gotera del árbol, atando el tronco con tiras de tela, buscando una adecuada dirección de la planta, procurando que el tronco principal quede lo más recto posible para darle una adecuada conformación al árbol.
+            p Es una técnica agrícola que consiste en formar una depresión alrededor del tronco para mejorar la retención de agua y nutrientes. Facilita el riego eficiente, reduce la erosión, optimiza la fertilización y ayuda al control de malezas. Se recomienda hacer un plateo amplio sin cubrir el cuello del árbol, evitar encharcamientos en suelos de mal drenaje y complementar con acolchados orgánicos. Esta práctica es clave para el manejo sostenible del aguacate, especialmente en terrenos con pendiente.
           
-
     .row.justify-content-center.align-items-center.mb-1
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")

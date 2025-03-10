@@ -82,7 +82,7 @@
         
         .tabla-b.mb-3
           table
-            caption Fuente: (Bernal y Díaz, 2005)
+            caption Fuente: Sena 2024
             thead
               tr
                 th Característica
@@ -258,7 +258,7 @@
         
         .tabla-b.mb-5 
           table.text-center
-            caption Fuente: (Bernal y Díaz, 2005)
+            caption Fuente: Sena 2024
             thead
               tr
                 th Calibre
