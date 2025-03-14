@@ -137,7 +137,7 @@ export default {
     {
       termino: 'Fertilidad',
       significado:
-        'Es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuadas.',
+        'Es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuada.',
     },
     {
       termino: 'Poscosecha',
@@ -240,7 +240,8 @@ export default {
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Julio Hernán Beltrán Peñuela',
@@ -255,7 +256,8 @@ export default {
         {
           nombre: 'Hernando Junior Strusberg Perez',
           cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',

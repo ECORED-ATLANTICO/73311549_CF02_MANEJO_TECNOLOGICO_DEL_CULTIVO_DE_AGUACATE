@@ -82,7 +82,7 @@
         
         .tabla-b.mb-3
           table
-            caption Fuente: Sena 2024
+            caption Fuente: (Sena 2024).
             thead
               tr
                 th Característica
@@ -258,7 +258,7 @@
         
         .tabla-b.mb-5 
           table.text-center
-            caption Fuente: Sena 2024
+            caption Fuente: (Sena 2024).
             thead
               tr
                 th Calibre
@@ -335,14 +335,14 @@
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema2/img_13.png", alt="alt").img400.m-auto
       
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-12.mb-2
-        .bloque-texto-g.bloque-texto-g.bg-17.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img_14.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Para profundizar sobre la norma técnica que orienta la calidad del producto para el mercado, se recomienda consultar el documento denominado: Norma del CODEX para el aguacate que se encuentra en el botón Materiales del programa / Materiales de apoyo / Documentos complementarios / Documentos complementarios: Actividad de aprendizaje 4.
+    //- .row.justify-content-center.align-items-center.mb-0
+    //-   .col-lg-12.mb-2
+    //-     .bloque-texto-g.bloque-texto-g.bg-17.p-3.p-sm-4.p-md-5
+    //-       .bloque-texto-g__img(
+    //-         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img_14.png')})`}"
+    //-       )
+    //-       .bloque-texto-g__texto.p-4
+    //-         p.mb-0 Para profundizar sobre la norma técnica que orienta la calidad del producto para el mercado, se recomienda consultar el documento denominado: Norma del CODEX para el aguacate que se encuentra en el botón Materiales del programa / Materiales de apoyo / Documentos complementarios / Documentos complementarios: Actividad de aprendizaje 4.
 
 </template>
 

@@ -130,7 +130,8 @@
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
                 .col-md-12.col-xl-8.mb-4
                   h3.mb-2 Fertilidad
-                  p Es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuados; para profundizar, consultar documento denominado Diagnóstico visual de trastornos nutrimentales que se encuentra en el botón Materiales del programa / Materiales de apoyo / Documentos complementarios / Documentos complementarios: Actividad de aprendizaje.
+                  p es la capacidad de un suelo para suministrar todos y cada uno de los
+                  nutrientes que necesitan las plantas en el momento, cantidad y forma adecuada.
                 
                 .col-md-8.col-xl-4.mb-3
                   figure
@@ -203,8 +204,10 @@
         
         .tabla-b.mb-5 
           table
-            caption Nota: Sena (2012).
+            caption Nota: Sena (2024).
             thead
+              tr
+                th(colspan="4") Número de arboles por hectarea
               tr
                 th Distancia entre plantas (m)
                 th Distancia entre surcos (m)
@@ -281,8 +284,8 @@
             i Proceso de siembra para aguacate:
 
         figure
-          img.mb-3(src='@/assets/curso/temas/tema1/img_14.png', alt='Proceso de siembra para aguacate.').mx-auto
-          figcaption Nota: Sena
+          img.mb-3(src='@/assets/curso/temas/tema1/img_14.png', alt='Se describe el proceso de siembra para el aguacate en seis pasos:  1. Cavar hoyos: estos deben ser más anchos que las raíces del árbol, con una profundidad igual a la bolsa donde se encuentra el colino, la distancia entre estos debe ser menor a 9 metros y estar a 4 metros de las edificaciones. 2. Poda de raíz: si las raices han salido de la bolsa, se deben podar. 3. Corte de bolsa: realice el corte de forma vertical, con herramientas afiladas y desinfectadas.  4. Transplante: ubique el colino en la bolsa ya cortada en el hoyo y retire la bolsa con cuidado. 5. Relleno: rellene el hoyo de forma homogénea, creado un montículo alrededor del tallo. 6. Plateo: realice el plateo a cada colino y aplique cobertura vegetal seca.').mx-auto
+          figcaption Nota: SENA
 
       .col-lg-10.mb-2
         p El árbol debe quedar con un montículo de 10 cm por encima del nivel del suelo para evitar encharcamientos y posibles pudriciones (se pueden realizar posteriores resiembras en caso de la muerte de algunas plántulas).
@@ -292,7 +295,7 @@
 
       .col-lg-12.mb-2
         figure
-          img(src='@/assets/curso/temas/tema1/img_15.png', alt='Diagrama de plántula en campo luego de la siembra.').mx-auto
+          img(src='@/assets/curso/temas/tema1/img_15.png', alt='El diagrama de plántula en campo después de la siembra, es un proceso que va desde la germinación, crecimiento del tallo, floración, llenado del grano y maduración.').mx-auto
 
 
     
@@ -432,7 +435,7 @@
         
         .tabla-b.mb-5 
           table.text-center
-            caption Nota: Sena (2012).
+            caption Nota: (Bernal y Díaz, 2005)
             thead
               tr 
                 th Nutriente
@@ -584,7 +587,7 @@
             h3.bgr_4.position-relative Plagas 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y trips . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuación, plagas de follaje:
+        p En la producción de aguacate, el control de plagas es una labor determinante que debe ser realizada con la mayor eficacia posible, para esto es indispensable conocer los principales insectos plagas que atacan al cultivo: chupadores de hojas, barrenadores de tallo y ramas, y perforadores de frutos y semillas, a continuación, insectos plaga de tallos y raíces: 
 
     .row.justify-content-center.align-items-center.mb-3.ordenar_tarjeta_lg
       .col-md-6.col-lg-4.col-xl-4.mb-2.pos_1
