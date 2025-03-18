@@ -20,9 +20,14 @@
 
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-10.mb-2
-        h4 Cosecha
+      .row.justify-content-center.align-items-center.mb-4
+       
       
       .col-lg-10.mb-4
+        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+            .div.mb-3(data-aos="fade-right")
+              h3.bgr_3.position-relative Cosecha
+                img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
         p.mb-2 Es la fase de aprovechamiento comercial del cultivo, en la cual se debe planear, organizar y ejecutar todas las labores que permitan seleccionar, clasificar, empacar y comercializar la fruta en el mercado.
 
@@ -116,12 +121,15 @@
                 td 4 y 5 días
                 td Hasta 5 días
 
-      .col-lg-10.mb-2
+      .col-lg-10.mb-5
         p.mb-2 El aguacate no alcanza su fase climatérica mientras permanece en el árbol, por lo tanto, su madurez de consumo se logra después de su recolección. La mayoría de las variedades cultivables en Colombia pueden permanecer en el árbol durante varios días, semanas e incluso meses después de la maduración fisiológica sin que se dé la caída de la fruta.
         p La determinación del momento de corte es un factor clave para garantizar que la fruta madure adecuadamente, optimizar la calidad y minimizar las pérdidas, por esta razón, las labores de cosecha se deben programar con anticipación, teniendo en cuenta la variedad, condiciones del cultivo, tipo de mercado y distancia a centros de comercialización y consumo.
 
       .col-lg-10.mb-2
-        h4 Recolección
+        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+          .div.mb-1(data-aos="fade-right")
+            h3.bgr_4.position-relative Recolección
+              img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
       .col-lg-10.mb-2
         p La recolección del aguacate se hace preferiblemente de forma manual con cuchillo o tijeras, recolectando una a una cada fruta y conservando una pequeña porción del pedúnculo adherido al fruto (0,5 cm aproximadamente), para no acelerar el proceso de maduración y evitar la entrada de patógenos, el tamaño de este no debe ser mayor para evitar daño por roce con otros frutos, a continuación el proceso de recolección:
@@ -172,127 +180,133 @@
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-10.mb-3
         .row.justify-content-center.align-items-center
+          .col-md-5.col-lg-4
+            figure(data-aos="zoom-in")
+              img(src="@/assets/curso/temas/tema2/img_8.png", alt="alt").img400.mx-auto
           .col-md-12.col-lg-8
             p.mb-2 La fruta no puede ser colocada en el suelo al iniciar la actividad de llenado de las canastillas, pues esto puede traer problemas de contaminación del fruto por agentes patógenos. Después de tener la fruta acopiada se debe transportar hacia el sitio de almacenamiento para iniciar las labores de poscosecha (selección, clasificación y empaque). No es recomendable transportar fruta a granel, pues las pérdidas aumentarían considerablemente. 
             p Es recomendable realizar una preselección en campo antes de llegar al proceso de poscosecha, pues con esto, se evita llevar fruta no apta para el mercado y por ende bajar los costos de producción. La fruta descartada es aquella que presenta daños mecánicos, daños por insectos, presencia de enfermedades en la cáscara, deformación, problemas de roña y tamaño muy pequeño. 
 
-          .col-md-5.col-lg-4
-            figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/tema2/img_8.png", alt="alt").img400.mx-auto
+         
 
       .col-lg-10.mb-3
         .row.justify-content-center.align-items-center.ordenar_tarjeta_lg
-          .col-md-5.col-lg-6.pos_2
-            figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/tema2/img_9.png", alt="alt").img400.mx-auto
-
           .col-md-12.col-lg-6
             p.mb-2 El tiempo de transporte del sitio de cosecha al de poscosecha y almacenamiento debe ser corto, para evitar pérdidas del fruto. En el caso que este no sea posible debe dejarse el producto en sitios frescos y bien aireados, al igual que limpios para evitar contaminación en el producto.
             p Si la fruta se transporta hacia el sitio de poscosecha en vehículo, este debe tener las condiciones higiénicas exigidas por la norma (evitar quemaduras por el sol, dejar espacios de circulación del aire, evitar que la lluvia humedezca el producto, limpio de estiércoles de animales, entre otras).
-
+          .col-md-5.col-lg-6.pos_2
+            figure(data-aos="zoom-in")
+              img(src="@/assets/curso/temas/tema2/img_9.png", alt="alt").img400.mx-auto
+        
       .col-lg-10.mb-2
         h4 Poscosecha
 
       .col-lg-10.mb-2
         p.mb-2 La poscosecha es la etapa del proceso productivo que involucra todas las prácticas necesarias para llegar con un buen producto al mercado final. Con esta se busca mantener la calidad del fruto y alargar su periodo de vida. Es importante aclarar que todas las técnicas que se manejan en poscosecha en ningún momento van a mejorar la calidad de la fruta, ya que esta es determinada por las Buenas Prácticas Agrícolas (BPA) implementadas durante el ciclo productivo. 
-        p El manejo del fruto durante cosecha y poscosecha debe ser cuidadoso para garantizar al consumidor la calidad e inocuidad que él exige. El personal asignado para estos procesos debe poseer las competencias tecnológicas requeridas para tal fin, garantizando que el proceso se realiza adecuadamente en todos sus eslabones productivos.
+        p.mb-5 El manejo del fruto durante cosecha y poscosecha debe ser cuidadoso para garantizar al consumidor la calidad e inocuidad que él exige. El personal asignado para estos procesos debe poseer las competencias tecnológicas requeridas para tal fin, garantizando que el proceso se realiza adecuadamente en todos sus eslabones productivos.
 
-      .col-lg-12.mb-2
-        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
-            h3.bgr_4.position-relative Lavado
-              img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+        .col-lg-12.mb-2
+          .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+            .div.mb-1(data-aos="fade-right")
+              h3.bgr_4.position-relative Lavado
+                img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p.mb-2 El lavado del aguacate en Colombia se realiza pocas veces y únicamente si es exigido por mercados internacionales, esto con el fin de brindar una mejor presentación al producto y eliminar posibles residuos de fungicidas, insecticidas o fertilizantes foliares.
-        p Esta práctica se hace sumergiendo los frutos en una solución desinfectante y después es indispensable realizar un proceso de secado donde se garantice la eliminación de humedad de la cáscara y así evitar posibles focos de patógenos.
+          p.mb-2 El lavado del aguacate en Colombia se realiza pocas veces y únicamente si es exigido por mercados internacionales, esto con el fin de brindar una mejor presentación al producto y eliminar posibles residuos de fungicidas, insecticidas o fertilizantes foliares.
+          p.mb-5 Esta práctica se hace sumergiendo los frutos en una solución desinfectante y después es indispensable realizar un proceso de secado donde se garantice la eliminación de humedad de la cáscara y así evitar posibles focos de patógenos.
 
-      .col-lg-12.mb-2
-        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
-            h3.bgr_4.position-relative Selección
-              img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+        .col-lg-12.mb-2
+          .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+            .div.mb-1(data-aos="fade-right")
+              h3.bgr_4.position-relative Selección
+                img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p.mb-2 En esta actividad se separan los frutos que no cumplen con los parámetros técnicos exigidos por el mercado: colores no apropiados, deformaciones, cicatrices en la cáscara, frutos agrietados, atacados por enfermedades o plagas, deshidratados y con ausencia de pedúnculo. 
-        p El sitio seleccionado para esta labor debe tener buena ventilación, estar protegido de los rayos solares y alejado de posibles contaminantes.
+          p.mb-2 En esta actividad se separan los frutos que no cumplen con los parámetros técnicos exigidos por el mercado: colores no apropiados, deformaciones, cicatrices en la cáscara, frutos agrietados, atacados por enfermedades o plagas, deshidratados y con ausencia de pedúnculo. 
+          p.mb-5 El sitio seleccionado para esta labor debe tener buena ventilación, estar protegido de los rayos solares y alejado de posibles contaminantes.
 
-      .col-lg-12.mb-2
-        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
-            h3.bgr_4.position-relative Clasificación
-              img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+        .col-lg-12.mb-2
+          .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+            .div.mb-1(data-aos="fade-right")
+              h3.bgr_4.position-relative Clasificación
+                img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p.mb-3 Una vez se descartan los frutos que no cumplen con las características mínimas para comercialización, se hace una clasificación basada en: color, tamaño, peso y sanidad. Para Colombia según la norma NTC 1248 y CODEX existen tres categorías para clasificar el fruto de aguacate:
+          p.mb-3 Una vez se descartan los frutos que no cumplen con las características mínimas para comercialización, se hace una clasificación basada en: color, tamaño, peso y sanidad. Para Colombia según la norma NTC 1248 y CODEX existen tres categorías para clasificar el fruto de aguacate:
         
-        .row.justify-content-center.align-items-center
-          .col-md-6.col-lg-4.mb-3
-            figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/tema2/img_10.png", alt="alt").img400.m-auto
-          .col-lg-8.mb-3
-            SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-6")
-              .tarjeta.tarjeta--slyder.p-4
-                .row.justify-content-center.mb-3
-                  .col-8.bg-04
-                    h4.p-3.text-white.text-center Categoría extra
-                p.text-center.mb-0 Los aguacates de esta categoría deben ser de calidad superior con un peso mayor a 180 gramos, libres de defectos con excepción de daños leves en el pericarpio, siempre que no afecten el aspecto general del producto.
+      .row.justify-content-center.align-items-center
+        .col-md-6.col-lg-4.mb-3
+          figure(data-aos="zoom-in")
+            img(src="@/assets/curso/temas/tema2/img_10.png", alt="alt").img400.m-auto
+        .col-lg-8.mb-3
+          SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-6")
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8.bg-04
+                  h4.p-3.text-white.text-center Categoría extra
+              p.text-center.mb-0 Los aguacates de esta categoría deben ser de calidad superior con un peso mayor a 180 gramos, libres de defectos con excepción de daños leves en el pericarpio, siempre que no afecten el aspecto general del producto.
 
-              .tarjeta.tarjeta--slyder.p-4
-                .row.justify-content-center.mb-3
-                  .col-8.bg-04
-                    h4.p-3.text-white.text-center Categoría I (primera)
-                p.text-center.mb-0 Los aguacates deben tener un peso entre 150 y 179 gramos y ser de buena calidad, además tener la forma y el olor típico de la variedad. Podrán presentar ligeros defectos de forma y color, las quemaduras en el pericarpio que no sobrepasen los 4 cm². Ningún defecto puede afectar la pulpa del fruto.
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8.bg-04
+                  h4.p-3.text-white.text-center Categoría I (primera)
+              p.text-center.mb-0 Los aguacates deben tener un peso entre 150 y 179 gramos y ser de buena calidad, además tener la forma y el olor típico de la variedad. Podrán presentar ligeros defectos de forma y color, las quemaduras en el pericarpio que no sobrepasen los 4 cm². Ningún defecto puede afectar la pulpa del fruto.
 
-              .tarjeta.tarjeta--slyder.p-4
-                .row.justify-content-center.mb-3
-                  .col-8.bg-04
-                    h4.p-3.text-white.text-center Categoría II (industrial)
-                p.text-center.mb-0 En esta categoría se incluyen pesos entre 90 y 149 gramos, puede presentar defectos en la forma y el color, manchas de epidermis y quemaduras por el sol que no superen los 6 cm², igual que en los dos anteriores los efectos no pueden afectar la pulpa del fruto.
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8.bg-04
+                  h4.p-3.text-white.text-center Categoría II (industrial)
+              p.text-center.mb-0 En esta categoría se incluyen pesos entre 90 y 149 gramos, puede presentar defectos en la forma y el color, manchas de epidermis y quemaduras por el sol que no superen los 6 cm², igual que en los dos anteriores los efectos no pueden afectar la pulpa del fruto.
 
-      .col-lg-12.mb-2
+      .col-lg-10.mb-2
         p Para el comercio a nivel internacional, toda la fruta debe presentar una óptima calidad, sin daños en la pulpa y se clasifica según diferentes calibres.
       
-      .col-lg-7.mb-2
-        .titulo-sexto.bg-11.mb-4
-            h5 Tabla 5. 
-            span.text-dark 
-              i Calibres para clasificación de la fruta para mercado internacional
-        
-        .tabla-b.mb-5 
-          table.text-center
-            caption Fuente: (Sena 2024).
-            thead
-              tr
-                th Calibre
-                th(colspan="2") Rango (gramos)
-            tbody
-              tr
-                td 12
-                td 310
-                td 369
-              tr
-                td 14
-                td 270
-                td 309
-              tr
-                td 16
-                td 240
-                td 269
-              tr
-                td 18
-                td 215
-                td 239
-              tr
-                td 20
-                td 195
-                td 214
-              tr
-                td 22
-                td 175
-                td 194
+      .row
+        .col-lg-10.mx-auto
+          .row.align-items-center
+            .col-lg-5.col-7.mx-auto
+              figure(data-aos="zoom-in")
+                img(src="@/assets/curso/temas/tema2/img_15.png", alt="alt").m-auto.mb-2.img400
+            .col-lg-7.mb-2
+              .titulo-sexto.bg-11.mb-4
+                  h5 Tabla 5. 
+                  span.text-dark 
+                    i Calibres para clasificación de la fruta para mercado internacional
+              
+              .tabla-b.mb-5 
+                table.text-center
+                  caption Fuente: (Sena 2024).
+                  thead
+                    tr
+                      th Calibre
+                      th(colspan="2") Rango (gramos)
+                  tbody
+                    tr
+                      td 12
+                      td 310
+                      td 369
+                    tr
+                      td 14
+                      td 270
+                      td 309
+                    tr
+                      td 16
+                      td 240
+                      td 269
+                    tr
+                      td 18
+                      td 215
+                      td 239
+                    tr
+                      td 20
+                      td 195
+                      td 214
+                    tr
+                      td 22
+                      td 175
+                      td 194
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Embalaje
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -306,7 +320,7 @@
     .row.justify-content-center.align-items-center.mb-4.ordenar_tarjeta_lg
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Transporte
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -320,7 +334,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Almacenamiento
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 

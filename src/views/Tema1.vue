@@ -30,7 +30,7 @@
       
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Zona de vida
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
         p Es de vital importancia seleccionar la especie de aguacate que se adapte a la zona de vida escogida, pues cada raza y variedad requiere de una específica, como se vio en la actividad de aprendizaje 1.
@@ -38,14 +38,14 @@
             
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Para ubicar la zona de vida se tiene en cuenta
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
         p La temperatura, la humedad, la altura sobre el nivel del mar, la precipitación y el viento; parámetros que intervienen directamente sobre el crecimiento, desarrollo, producción y productividad de la especie.
 
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Ubicación
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -58,7 +58,7 @@
 
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Topografía
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -119,7 +119,7 @@
             .tarjeta.bg-01.p-2
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
                 .col-md-12.col-xl-7.mb-4
-                  h3.mb-2 pH
+                  h3.mb-2 PH
                   p Este puede afectar la disponibilidad y absorción de los nutrientes para la planta. El sistema radical absorbe los nutrientes que se encuentran disueltos en el agua del suelo. Valores extremos de pH, ya sea por acidez o alcalinidad, pueden provocar la precipitación de ciertos elementos nutritivos químicos, los cuales permanecen en forma no disponible para ser absorbidos por las raíces. 
                 
                 .col-md-8.col-xl-5.mb-3
@@ -128,12 +128,11 @@
 
             .tarjeta.bg-01.p-2
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
-                .col-md-12.col-xl-8.mb-4
+                .col-md-12.col-xl-4.mb-4
                   h3.mb-2 Fertilidad
-                  p es la capacidad de un suelo para suministrar todos y cada uno de los
-                  nutrientes que necesitan las plantas en el momento, cantidad y forma adecuada.
+                  p es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuada.
                 
-                .col-md-8.col-xl-4.mb-3
+                .col-md-8.col-xl-8.mb-3
                   figure
                     img(src='@/assets/curso/temas/tema1/img_10.png', alt='Texto que describa la imagen').mx-auto
 
@@ -154,7 +153,7 @@
       
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Curvas a nivel
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
         
@@ -166,7 +165,7 @@
 
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Triángulo o tres bolillos
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
         
@@ -178,7 +177,7 @@
 
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Cuadrado
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
         
@@ -257,7 +256,7 @@
 
       .col-lg-10.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Ahoyado
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -268,7 +267,7 @@
 
       .col-lg-10.mb-4
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Siembra o trasplante
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -277,39 +276,37 @@
           p El procedimiento para la siembra es el siguiente: cortar la bolsa por la parte inferior, ubicarla en el centro del hoyo y retirar la bolsa por la parte superior de la planta, pues de lo contrario podría atrofiarse la raíz en su crecimiento y desarrollo. Luego se termina de llenar el hueco con suelo suficiente para evitar cámaras de aire y en lo posible se debe aplicar una cobertura vegetal seca.
 
 
-      .col-lg-10.mb-2
+      .col-lg-10.mb-4
         .titulo-sexto.bg-11.mb-4
           h5 Figura 1. 
           span.text-dark 
             i Proceso de siembra para aguacate:
 
-        figure
-          img.mb-3(src='@/assets/curso/temas/tema1/img_14.png', alt='Se describe el proceso de siembra para el aguacate en seis pasos:  1. Cavar hoyos: estos deben ser más anchos que las raíces del árbol, con una profundidad igual a la bolsa donde se encuentra el colino, la distancia entre estos debe ser menor a 9 metros y estar a 4 metros de las edificaciones. 2. Poda de raíz: si las raices han salido de la bolsa, se deben podar. 3. Corte de bolsa: realice el corte de forma vertical, con herramientas afiladas y desinfectadas.  4. Transplante: ubique el colino en la bolsa ya cortada en el hoyo y retire la bolsa con cuidado. 5. Relleno: rellene el hoyo de forma homogénea, creado un montículo alrededor del tallo. 6. Plateo: realice el plateo a cada colino y aplique cobertura vegetal seca.').mx-auto
+        figure.mb-4
+          img(src='@/assets/curso/temas/tema1/img_14.png', alt='Se describe el proceso de siembra para el aguacate en seis pasos:  1. Cavar hoyos: estos deben ser más anchos que las raíces del árbol, con una profundidad igual a la bolsa donde se encuentra el colino, la distancia entre estos debe ser menor a 9 metros y estar a 4 metros de las edificaciones. 2. Poda de raíz: si las raices han salido de la bolsa, se deben podar. 3. Corte de bolsa: realice el corte de forma vertical, con herramientas afiladas y desinfectadas.  4. Transplante: ubique el colino en la bolsa ya cortada en el hoyo y retire la bolsa con cuidado. 5. Relleno: rellene el hoyo de forma homogénea, creado un montículo alrededor del tallo. 6. Plateo: realice el plateo a cada colino y aplique cobertura vegetal seca.').mx-auto
           figcaption Nota: SENA
 
-      .col-lg-10.mb-2
-        p El árbol debe quedar con un montículo de 10 cm por encima del nivel del suelo para evitar encharcamientos y posibles pudriciones (se pueden realizar posteriores resiembras en caso de la muerte de algunas plántulas).
+        .col-lg-10.mb-4
+          p El árbol debe quedar con un montículo de 10 cm por encima del nivel del suelo para evitar encharcamientos y posibles pudriciones (se pueden realizar posteriores resiembras en caso de la muerte de algunas plántulas).
 
-      .col-lg-10.mb-2
-        .h3 Diagrama de plántula en campo después de la siembra
+        .col-lg-10.mb-4
+          .h3 Diagrama de plántula en campo después de la siembra
 
-      .col-lg-12.mb-2
-        figure
-          img(src='@/assets/curso/temas/tema1/img_15.png', alt='El diagrama de plántula en campo después de la siembra, es un proceso que va desde la germinación, crecimiento del tallo, floración, llenado del grano y maduración.').mx-auto
+        .col-lg-12.mb-2
+          figure
+            img(src='@/assets/curso/temas/tema1/img_15.png', alt='El diagrama de plántula en campo después de la siembra, es un proceso que va desde la germinación, crecimiento del tallo, floración, llenado del grano y maduración.').mx-auto
 
+        Separador
+        
+        .row.justify-content-center.align-items-center.mb-1
+          .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+            .div.mb-1(data-aos="fade-right")
+              h3.bgr_3.position-relative Labores culturales
+                img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
-    
-    Separador
-
-    .row.justify-content-center.align-items-center.mb-1
-      .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-        .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Labores culturales
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
-
-      .col-lg-12.mb-4
-        p.mb-3 Esta labor se realiza entre los 45 y 60 días antes de la siembra y permite señalar los puntos donde las plantas van a quedar establecidas. El sitio depende de la topografía del terreno y la dirección del recorrido del sol para evitar en lo posible el sombreamiento entre árboles.
-        p.text-bold Se pueden utilizar diferentes métodos de trazado:
+          .col-lg-12.mb-4
+            p.mb-3 Esta labor se realiza entre los 45 y 60 días antes de la siembra y permite señalar los puntos donde las plantas van a quedar establecidas. El sitio depende de la topografía del terreno y la dirección del recorrido del sol para evitar en lo posible el sombreamiento entre árboles.
+            p.text-bold Se pueden utilizar diferentes métodos de trazado:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10      
@@ -324,7 +321,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img_23.png", alt="alt").img400.m-auto
     
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10      
         .div.mb-3(data-aos="fade-right")
           h3.bgr_4.position-relative Plateo
@@ -583,13 +580,13 @@
 
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Plagas 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
         p En la producción de aguacate, el control de plagas es una labor determinante que debe ser realizada con la mayor eficacia posible, para esto es indispensable conocer los principales insectos plagas que atacan al cultivo: chupadores de hojas, barrenadores de tallo y ramas, y perforadores de frutos y semillas, a continuación, insectos plaga de tallos y raíces: 
 
-    .row.justify-content-center.align-items-center.mb-3.ordenar_tarjeta_lg
+    .row.justify-content-center.align-items-center.mb-3.ordenar_tarjeta_lg.mb-5
       .col-md-6.col-lg-4.col-xl-4.mb-2.pos_1
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/img_17.png", alt="alt").img400.m-auto
@@ -620,7 +617,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Plagas del follaje 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -689,7 +686,7 @@
     .row.justify-content-center.align-items-center.mb-1.ordenar_tarjeta_lg
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Enfermedades 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
@@ -748,23 +745,23 @@
                   p Esta enfermedad ataca plantas en vivero produciendo muerte descendente y pudrición del injerto, en el campo afecta ramas produciendo muerte de cogollos. El hongo ocasiona pudrición de fruto en cosecha y poscosecha, deteriorando la calidad del fruto.             
 
       .col-lg-12.mb-2
-        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+        .row.align-items-center.justify-content-star.ps-2(data-aos="zoom-in-down")
+          .div(data-aos="fade-right")
             h3.bgr_4.position-relative Manejo de arvenses  
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-      .col-md-12.col-lg-7.mb-2
+      .col-md-12.col-lg-9.mb-2
         p.mb-3 Las arvenses en el cultivo del aguacate son de gran importancia económica durante todo el ciclo vegetativo, principalmente en las etapas de vivero y de establecimiento, donde se forma el sistema radical del futuro árbol.
         p En la etapa de formación, especialmente durante los dos primeros años del cultivo, las arvenses compiten por espacio, luz y agua, por lo que se recomienda mantener por lo menos la región debajo del árbol libre de competencia durante este tiempo. (Corpoica, 2008)
 
-      .col-md-8.col-lg-5.mb-2
+      .col-md-8.col-lg-3.mb-2
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/img_22.png", alt="alt").img400.mx-auto
     
     .row.justify-content-center.align-items-center
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-          .div.mb-3(data-aos="fade-right")
+          .div.mb-1(data-aos="fade-right")
             h3.bgr_4.position-relative Para esto se pueden usar coberturas muertas o <em>Mulch</em>
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
