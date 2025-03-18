@@ -280,7 +280,7 @@
         .titulo-sexto.bg-11.mb-4
           h5 Figura 1. 
           span.text-dark 
-            i Proceso de siembra para aguacate:
+            i Proceso de siembra para aguacate
 
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img_14.png', alt='Se describe el proceso de siembra para el aguacate en seis pasos:  1. Cavar hoyos: estos deben ser más anchos que las raíces del árbol, con una profundidad igual a la bolsa donde se encuentra el colino, la distancia entre estos debe ser menor a 9 metros y estar a 4 metros de las edificaciones. 2. Poda de raíz: si las raices han salido de la bolsa, se deben podar. 3. Corte de bolsa: realice el corte de forma vertical, con herramientas afiladas y desinfectadas.  4. Transplante: ubique el colino en la bolsa ya cortada en el hoyo y retire la bolsa con cuidado. 5. Relleno: rellene el hoyo de forma homogénea, creado un montículo alrededor del tallo. 6. Plateo: realice el plateo a cada colino y aplique cobertura vegetal seca.').mx-auto
@@ -303,10 +303,6 @@
             .div.mb-1(data-aos="fade-right")
               h3.bgr_3.position-relative Labores culturales
                 img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
-
-          .col-lg-12.mb-4
-            p.mb-3 Esta labor se realiza entre los 45 y 60 días antes de la siembra y permite señalar los puntos donde las plantas van a quedar establecidas. El sitio depende de la topografía del terreno y la dirección del recorrido del sol para evitar en lo posible el sombreamiento entre árboles.
-            p.text-bold Se pueden utilizar diferentes métodos de trazado:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10      
@@ -606,7 +602,7 @@
                   i Metarhizium anisopliae
             p.text-center.mb-0 Taladrador del tronco y ramas 
               i (Copturomímus perseae): 
-              | es un insecto pequeño de medio centímetro aproximadamente, color gris, con manchas ovaladas negras sobre las alas, su ciclo de vida va de 75 a 94 días
+              | es un insecto pequeño de medio centímetro aproximadamente, color gris, con manchas ovaladas negras sobre las alas, su ciclo de vida va de 75 a 94 días.
 
           .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3
@@ -621,21 +617,21 @@
             h3.bgr_4.position-relative Plagas del follaje 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y trips . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuac  ión, plagas de follaje:
+        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y <em>trips</em> . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuac  ión, plagas de follaje:
 
       .col-md-5.col-lg-4.mb-3
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/img_18.png", alt="alt").mx-auto
       .col-lg-8.mb-3
         LineaTiempoD.color-primario.text-small
-          .row(numero="1" titulo="Ácaros o arañitas, arañitas <em>Tetranychus urticae</em>, <em>Tetranychus bimaculatus</em>, <em>Mononychellus planki</em>, <em>Oligonychus punicae</em> y <em>Oligonychus yothersi</em>, <em>Eriophyes sp</em>")
+          .row(numero="1" titulo="Ácaros o arañitas (arañitas <em>Tetranychus urticae</em>, <em>Tetranychus bimaculatus</em>, <em>Mononychellus planki</em>, <em>Oligonychus punicae</em> y <em>Oligonychus yothersi</em>, <em>Eriophyes sp</em>)")
             .col-md-12.mb-4.mb-md-0
               p Los ácaros, insectos pequeños de menos de 1 cm, viven en colonias bajo las hojas y a lo largo de las nervaduras. Succionan la savia, causando manchas amarillentas y secado del follaje. En infestaciones severas, también afectan las yemas, que se deforman. Su incidencia es mayor en épocas secas y calurosas, y su población se regula por la lluvia y depredadores. Se recomienda el uso de acaricidas a base de azufre para manejar 
                 i Oligonychus y Eriophyes.
           
           .row(numero="2" titulo="<em>Trips (Heliothrips haemorrhoidalis y Selenothrips rubrocinctus)</em>")
             .col-md-12.mb-4.mb-md-0
-              p Los trips son insectos pequeños de 0.3 a 1.4 cm, con dos pares de alas largas, que pueden reproducirse sexual y asexualmente. Cada hembra pone alrededor de 60 huevos. Su desarrollo se ve afectado por humedades bajas, siendo más abundantes en épocas secas, cuando se hospedan en arvenses. Su ataque causa engrosamiento y agrietamiento en frutos y hojas, además de decoloración y caída de frutos pequeños. Se debe monitorear durante la floración y mantener las plantaciones libres de arvenses hospederas.
+              p Los <em>trips</em> son insectos pequeños de 0.3 a 1.4 cm, con dos pares de alas largas, que pueden reproducirse sexual y asexualmente. Cada hembra pone alrededor de 60 huevos. Su desarrollo se ve afectado por humedades bajas, siendo más abundantes en épocas secas, cuando se hospedan en arvenses. Su ataque causa engrosamiento y agrietamiento en frutos y hojas, además de decoloración y caída de frutos pequeños. Se debe monitorear durante la floración y mantener las plantaciones libres de arvenses hospederas.
 
           .row(numero="3" titulo="Escamas articuladas <em>(Selenaspidus articulatus</em> y <em>Pseudo Ischnaspis bowery)</em>")
             .col-md-12.mb-4.mb-md-0
@@ -724,7 +720,7 @@
               .row.justify-content-center.align-items-center.my-lg-4.p-3
                 .col-md-12.col-xl-10.mb-4
                   h3.mb-2 Roña <em>(Sphaceloma perseae)</em>:
-                  p Esta enfermedad es común en todas las zonas productoras de Colombia, favorecida por abundantes precipitaciones y alta humedad. El hongo afecta hojas y frutos, y su ataque se agrava con la presencia de trips, que facilitan la entrada del patógeno. En los frutos aparecen lesiones pardo-cafés, mientras que en las hojas se observan manchas de tonalidad castaño claro, arrugando la lámina foliar. Para su control, se recomiendan podas de aclareo que mejoren la luminosidad y la aireación.
+                  p Esta enfermedad es común en todas las zonas productoras de Colombia, favorecida por abundantes precipitaciones y alta humedad. El hongo afecta hojas y frutos, y su ataque se agrava con la presencia de <em>trips</em>, que facilitan la entrada del patógeno. En los frutos aparecen lesiones pardo-cafés, mientras que en las hojas se observan manchas de tonalidad castaño claro, arrugando la lámina foliar. Para su control, se recomiendan podas de aclareo que mejoren la luminosidad y la aireación.
                 
             .tarjeta.bg-01.p-2
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3

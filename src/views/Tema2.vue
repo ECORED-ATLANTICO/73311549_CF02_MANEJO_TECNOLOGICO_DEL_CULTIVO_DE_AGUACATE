@@ -132,7 +132,7 @@
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
       .col-lg-10.mb-2
-        p La recolección del aguacate se hace preferiblemente de forma manual con cuchillo o tijeras, recolectando una a una cada fruta y conservando una pequeña porción del pedúnculo adherido al fruto (0,5 cm aproximadamente), para no acelerar el proceso de maduración y evitar la entrada de patógenos, el tamaño de este no debe ser mayor para evitar daño por roce con otros frutos, a continuación el proceso de recolección:
+        p La recolección del aguacate se hace preferiblemente de forma manual con cuchillo o tijeras, recolectando una a una cada fruta y conservando una pequeña porción del pedúnculo adherido al fruto (0,5 cm aproximadamente), para no acelerar el proceso de maduración y evitar la entrada de patógenos, el tamaño de este no debe ser mayor para evitar daño por roce con otros frutos, a continuación, el proceso de recolección:
 
       .col-lg-10.order-2.order-lg-1.align-items-center
         TabsA.color-primario.mb-5
@@ -163,7 +163,7 @@
           .tarjeta.clr-paleYellow.p-4(titulo="Después los frutos se organizan en<br> canastillas")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-xl-4  
-                p Plásticas (bien limpias) tipo carullera que cuenta con las siguientes medidas: 52 cm largo, 35 cm anchor y 30 cm alto o si es la canastilla tradicional: 59 cm largo, 40 cm ancho y 24 cm alto.
+                p Plásticas (bien limpias) tipo carullera que cuenta con las siguientes medidas: 52 cm largo, 35 cm ancho y 30 cm alto o si es la canastilla tradicional: 59 cm largo, 40 cm ancho y 24 cm alto.
               .col-md-6.col-lg-5.col-xl-8
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_6.png", alt="alt").img400.mx-auto

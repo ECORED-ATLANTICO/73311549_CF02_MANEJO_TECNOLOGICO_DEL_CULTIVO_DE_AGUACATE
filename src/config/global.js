@@ -243,11 +243,6 @@ export default {
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
-        {
-          nombre: 'Julio Hernán Beltrán Peñuela',
-          cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios - Regional Caldas',
-        },
       ],
     },
     {
