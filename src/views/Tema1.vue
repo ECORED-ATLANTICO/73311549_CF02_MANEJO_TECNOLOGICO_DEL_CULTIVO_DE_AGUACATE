@@ -130,7 +130,7 @@
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
                 .col-md-12.col-xl-4.mb-4
                   h3.mb-2 Fertilidad
-                  p es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuada.
+                  p Es la capacidad de un suelo para suministrar todos y cada uno de los nutrientes que necesitan las plantas en el momento, cantidad y forma adecuada.
                 
                 .col-md-8.col-xl-8.mb-3
                   figure
@@ -617,7 +617,7 @@
             h3.bgr_4.position-relative Plagas del follaje 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y <em>trips</em> . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuac  ión, plagas de follaje:
+        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y <em>trips</em> . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuación, plagas de follaje:
 
       .col-md-5.col-lg-4.mb-3
         figure(data-aos="zoom-in")
@@ -714,7 +714,7 @@
               .row.justify-content-center.align-items-center.my-lg-4.p-1
                 .col-md-12.col-xl-10.mb-4
                   h3.mb-2 Marchitez <em>(Verticillium sp)</em>:
-                  p La marchitez por Verticillium es una enfermedad creciente que a menudo se confunde con la pudrición de raíces por P. cinnamomi. El hongo invade tallos y ramas, causando un crecimiento detenido y marchitez parcial o total, con hojas que se tornan marrones. Para controlarla, es fundamental ubicar los árboles en terrenos bien drenados y podar las ramas afectadas. Las medidas de manejo son similares a las de la pudrición radical, enfocándose en evitar el encharcamiento del suelo.
+                  p La marchitez por <em>Verticillium</em> es una enfermedad creciente que a menudo se confunde con la pudrición de raíces por P. cinnamomi. El hongo invade tallos y ramas, causando un crecimiento detenido y marchitez parcial o total, con hojas que se tornan marrones. Para controlarla, es fundamental ubicar los árboles en terrenos bien drenados y podar las ramas afectadas. Las medidas de manejo son similares a las de la pudrición radical, enfocándose en evitar el encharcamiento del suelo.
                 
             .tarjeta.bg-01.p-2
               .row.justify-content-center.align-items-center.my-lg-4.p-3
@@ -732,7 +732,7 @@
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
                 .col-md-12.col-xl-10.mb-4
                   h3.mb-2 Polvillo <em>(Oidium sp)</em>:
-                  p A enfermedad aparece en épocas de poca lluvia, iniciando con micelio blanco o grisáceo en hojas y racimos de flores tiernas. Las hojas afectadas se deforman y presentan manchas irregulares negro grisáceas. Para su control, se recomienda el uso de preparados a base de azufre, aplicándolos antes y después de la floración, cada 8 a 15 días, según la intensidad del ataque.
+                  p La enfermedad aparece en épocas de poca lluvia, iniciando con micelio blanco o grisáceo en hojas y racimos de flores tiernas. Las hojas afectadas se deforman y presentan manchas irregulares negro grisáceas. Para su control, se recomienda el uso de preparados a base de azufre, aplicándolos antes y después de la floración, cada 8 a 15 días, según la intensidad del ataque.
 
             .tarjeta.bg-01.p-2
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
